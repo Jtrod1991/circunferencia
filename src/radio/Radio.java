@@ -28,5 +28,7 @@ public class Radio {
          circulo1.area();
          
          circulo1.perimetro();
+         
+         System.out.println("Conectado a git");
     }  
 }
